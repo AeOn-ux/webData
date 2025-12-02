@@ -1,0 +1,12 @@
+Terminal에서 pip 4개 입력해 다운하기
+
+requests 라이브러리 설치 : pip install requests
+
+beautifulsoup4 라이브러리 설치 : pip install beautifulsoup4
+
+lxml 라이브러리 설치 : pip install lxml
+
+pip install selenium
+
+https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win64/chromedriver-win64.zip
+위에는 구글창에 입력
