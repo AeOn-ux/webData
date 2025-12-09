@@ -7,7 +7,7 @@ url="https://comic.naver.com/index"
 # selenium 함수호출
 
 # 파일 불러오기
-with open("../webData/webtoon_browser.html","r",encoding="utf8") as f:
+with open("webtoon_browser.html","r",encoding="utf8") as f:
     soup = BeautifulSoup(f,"lxml")
 
 # 실시간 신작 랭킹 ---------------------------------
